@@ -531,3 +531,6 @@ var render = function () {
     renderer.render(scene, camera);
 };
 render();
+
+// Claude AI and Chat GPT were used to help code animals and locations
+// For a base I used: https://codepen.io/yitliu/pen/gOaPxRX?editors=1010
